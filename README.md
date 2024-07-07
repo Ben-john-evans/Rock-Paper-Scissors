@@ -1,1 +1,1 @@
-This a Rock, Paper, Scissors programming project to practice and improve JavaScript.
+This a Rock, Paper, Scissors programming project for practice purposes.
